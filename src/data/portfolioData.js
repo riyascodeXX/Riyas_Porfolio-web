@@ -251,7 +251,7 @@ export const certificates = {
       icon: "🧑‍💻",
     },
     {
-      name: "Data Engineer Certified **Expires Sep 2028**",
+      name: "Data Engineer Certified (Expires Sep 2028)",
       issuer: "Datacamp",
       icon: "🧑‍💻",
     },
