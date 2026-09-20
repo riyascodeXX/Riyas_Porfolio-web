@@ -241,17 +241,22 @@ export const projects = [
 export const certificates = {
   featured: [
     {
-      name: "IBM Data Analytics Professtional Certificate ",
-      issuer: "IBM",
-      icon: "🧑‍💻",
-    },
-        {
-      name: "Data Analytics Job Simulation Certificate",
+      name: "Data Analytics Virtual Internship",
       issuer: "Deloitte.",
       icon: "🧑‍💻",
     },
     {
-      name: "Microsoft Certified: Fabric Analytics Engineer Associate      -    Status: Ongoing / Scheduled for [OCT,2026]",
+      name: "GenAI Powered Data Analytics Virtual Internship",
+      issuer: "TATA Group",
+      icon: "🧑‍💻",
+    },
+    {
+      name: "Data Engineer Certified **Expires Sep 2028**",
+      issuer: "Datacamp",
+      icon: "🧑‍💻",
+    },
+    {
+      name: "Microsoft Certified: Fabric Analytics Engineer Associate      -    Status: Ongoing / Scheduled for [DEC,2026]",
       issuer: "Microsoft ",
       icon: "🧑‍💻",
     }
@@ -259,6 +264,7 @@ export const certificates = {
   viewAllUrl:
     "",
 };
+
 
 export const education = {
   degree: "BSC – INFORMATION TECHNOLOGY",
